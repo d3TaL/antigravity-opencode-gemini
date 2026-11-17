@@ -1,0 +1,10 @@
+{
+  "name": "antigravity-opencode-gemini",
+  "version": "0.1.0",
+  "description": "Concise Gemini system instructions for OpenCode V2, motivated by Antigravity request-specific 429 errors",
+  "type": "module",
+  "private": true,
+  "exports": { ".": "./src/index.js" },
+  "files": ["src", "README.md"],
+  "repository": { "type": "git", "url": "https://github.com/d3TaL/antigravity-opencode-gemini.git" }
+}
